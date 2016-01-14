@@ -27,6 +27,7 @@ vector<int > G[N];
 int n, m;
 void work() {
 	fuck;
+	fuck!
 }
 
 int main() {
