@@ -28,6 +28,7 @@ int n, m;
 void work() {
 	fuck;
 	fuck!
+	fukcccQ:
 }
 
 int main() {
